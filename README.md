@@ -3,6 +3,13 @@
 ## Overview
 SAP Graph Intelligence is a highly advanced, full-stack application designed to transform raw SAP ERP data into an interactive Knowledge Graph and provide a Natural Language-to-SQL interface. It enables modern, non-technical business users to explore complex relational ERP data (Sales, Billing, Products, Deliveries) simply by asking questions in plain English.
 
+## Visual Dashboard & AI Agent
+![Dashboard Overview](screenshots/graph2.jpg)
+![Node Inspector](screenshots/graph3.jpg)
+![Graph Details](screenshots/graph4.jpg)
+![AI Natural Language Chat](screenshots/graph4.jpg)
+![Graph Interactive Zoom](screenshots/graph1.jpg)
+
 ## Architecture Decisions
 
 The system is separated into a decoupled backend and frontend for maximum scalability.
