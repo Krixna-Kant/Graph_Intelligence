@@ -6,7 +6,7 @@ import StatsBar from './components/StatsBar'
 import ApiKeyModal from './components/ApiKeyModal'
 import { NODE_COLORS } from './constants'
 
-const API_BASE = 'http://localhost:8000'
+const API_BASE = 'https://graph-intelligence-rgvm.onrender.com'
 
 export default function App() {
   const [graphData, setGraphData] = useState({ nodes: [], edges: [] })
