@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.db
+Dataset/
+dist/
+build/
+.gemini/
+.agent/
