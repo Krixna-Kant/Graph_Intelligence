@@ -1,0 +1,4 @@
+{'business_partners': 8, 'customer_sales_areas': 0, 'products': 69, 'product_descriptions': 69, 'product_sales_deliveries': 0, 'sales_order_headers': 100, 'sales_order_items': 167, 'sales_order_partners': 0, 'sales_order_pricing_elements': 0, 'sales_order_schedule_lines': 179, 'outbound_delivery_headers': 86, 'outbound_delivery_items': 137, 'billing_document_headers': 163, 'billing_document_items': 245, 'credit_memo_request_headers': 0, 'credit_memo_request_items': 0, 'journal_entry_items_accounts_receivable': 123, 'payments_accounts_receivable': 120}
+Nodes: 669
+Edges: 882
+Types: {'CUSTOMER': 8, 'PRODUCT': 69, 'SALES_ORDER': 100, 'DELIVERY': 86, 'BILLING': 163, 'JOURNAL': 123, 'PAYMENT': 120}
